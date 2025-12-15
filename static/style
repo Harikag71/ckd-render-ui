@@ -1,0 +1,52 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #f2f7fb;
+}
+
+.container {
+    width: 420px;
+    margin: auto;
+    background: white;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+h1 {
+    text-align: center;
+}
+
+label {
+    display: block;
+    margin-top: 8px;
+}
+
+input {
+    width: 100%;
+    padding: 6px;
+}
+
+button {
+    margin-top: 15px;
+    width: 100%;
+    padding: 10px;
+    background: #007bff;
+    color: white;
+    border: none;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.result {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.kidney-img {
+    width: 280px;
+    margin-top: 10px;
+}
+
+.graph-img {
+    width: 380px;
+    margin-top: 10px;
+}
